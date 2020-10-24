@@ -1,0 +1,51 @@
+#calculator {
+    overflow: hidden;
+    height: 600px;
+    width: 500px;
+    position: relative;
+    display: block;
+    margin: 0 auto;
+}
+
+#gray {
+    position: relative;
+    height: 30%;
+    background-color: rgb(56, 56, 56);
+    display: block;
+    margin-top: 20px;
+}
+
+#silver {
+    height: 70%;
+    width: 100%;
+    background-color: silver;
+    padding-top: 1%;
+}
+
+#black {
+    position: relative;
+    height: 87%;
+    background-color: black;
+    border-radius: 10px 10px 50px 50px / 10px 10px 25px 25px;
+    padding: 60px 16px 16px 16px;
+    display: block;
+}
+
+.monitor{
+    height: 92%;
+    background-color: rgb(201, 201, 201);
+    border-radius: 10px 10px 70px 70px / 10px 10px 25px 25px;
+}
+
+.input{
+    width: 90%;
+    height: 70%;
+    margin-left: 23px;
+    margin-top: 15px;
+    border-radius: 5px 5px 5px 5px;
+}
+
+#B1{
+    color: black;
+    border-radius: 2px;
+}
