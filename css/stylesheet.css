@@ -44,26 +44,24 @@
     margin-top: 15px;
     border-radius: 5px 5px 5px 5px;
     font-size: 100px;
+    /* direction: rtl; */
 }
 
 .input-range{
     width: 30px;
+    margin-left: 35px;
     margin-bottom: 20px;
 
 }
 
 .input-range1{
     width: 50px;
-    margin: 20px;
+    margin-left: 50px;
 }
 
 .b00-0{
-    width: 70px;
-    height: 50px;
-    background-color: black;
-    color: white;
-border-radius: 5px;
-    margin-left: 20px;
+    margin-left: 140px;
+    margin-bottom: 20px;
 }
 
 .sefrkardan{
@@ -71,8 +69,63 @@ border-radius: 5px;
     height: 50px;
     background-color: rgb(0, 136, 79);
     color:white;
+    margin-left: 10px;  
     border-radius: 5px;
-    margin-left: 200px;
-    margin-bottom: 10px;
-    
+}
+
+.andaze-dokmeha {
+    width: 70px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    /* font-size: 10px; */
+}
+
+.mrc{
+    margin-left: 21px;
+}
+
+.check{
+    margin-right: 9px;
+}
+
+.gt{
+    margin-left: 20px;
+}
+
+.autoreplay{
+    margin-bottom: 5px;
+}
+
+.b9{
+    margin-bottom: 5px;
+}
+
+.mark-up{
+    margin-left: 20px;
+}
+
+.moma{
+    margin-left: 20px;
+}
+
+.bb{
+    width: 70px;
+    height: 100px;
+    background-color: black;
+    color: white;
+}
+
+.jam{
+    height: 100px;
+
+}
+
+.mc{
+    margin-left: 20px;
+}
+
+.mosavi{
+    margin-left: 75px;
 }
