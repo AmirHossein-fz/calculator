@@ -16,7 +16,7 @@
 }
 
 #silver {
-    height: 70%;
+    height: 90%;
     width: 100%;
     background-color: silver;
     padding-top: 15%;
@@ -29,6 +29,7 @@
     border-radius: 10px 10px 50px 50px / 10px 10px 25px 25px;
     padding: 60px 16px 16px 16px;
     display: block;
+    color: white;
 }
 
 .monitor{
@@ -88,6 +89,7 @@
 
 .check{
     margin-right: 9px;
+    color: rgb(136, 136, 49) ;
 }
 
 .gt{
@@ -96,6 +98,7 @@
 
 .autoreplay{
     margin-bottom: 5px;
+    color: rgb(136, 136, 49);
 }
 
 .b9{
